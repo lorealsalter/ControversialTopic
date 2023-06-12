@@ -8,7 +8,7 @@ nav {
   
     min-height: 8vh;
   
-    background-color: teal;
+    background-color: chocolate;
   
     font-family: "Montserrat", sans-serif;
   
@@ -56,13 +56,12 @@ h1 {
 }
 p  {
     
-    padding-top: 50px;
+    padding-top: px;
 
-    padding-right: 250px;
+    padding-right: px;
 
-    padding-bottom: 50px;
+    padding-bottom: px;
 
-    padding-left: 250px;
+    padding-left: px;
     
-    font-size: x-large;
-}
+    ;
