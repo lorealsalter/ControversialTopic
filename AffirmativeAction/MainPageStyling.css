@@ -56,12 +56,30 @@ h1 {
 }
 p  {
     
-    padding-top: px;
+    padding-top: 25px;
 
-    padding-right: px;
+    padding-right: 20px;
 
-    padding-bottom: px;
+    padding-bottom: 25px;
 
-    padding-left: px;
+    padding-left: 20px;
     
-    ;
+}
+
+h2  {
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+#firstSection   {
+    background-color: antiquewhite;
+}
+#secondSection  {
+    background-color: antiquewhite;
+}
+
+#img1sec2    {
+    border-color: black;
+    border-width: 20px;
+       
+}

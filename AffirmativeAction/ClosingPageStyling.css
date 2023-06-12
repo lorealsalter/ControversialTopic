@@ -6,9 +6,29 @@ h1 {
     padding-left: 80px;
 }
 p  {
-    padding-top: px;
-    padding-right: px;
-    padding-bottom: px;
-    padding-left: px;
-    font-size: ;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-align: center
+}
+h2  {padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    text-align: center
+
+}
+
+h3  {padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    text-align: center
+
+}
+
+#firstSection1  {
+    background-color: antiquewhite;
+}
+#secondSection  {
+    background-color: antiquewhite;
 }
